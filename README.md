@@ -1,1 +1,1 @@
-# <img src="FANOA-icon.svg" width="40"></img>Fanoa
+# <img src="FANOA-icon.svg" width="40"> Fanoa
